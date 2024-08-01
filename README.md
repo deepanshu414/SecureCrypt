@@ -7,12 +7,6 @@ SecureCrypt is a Python package for encryption and decryption. It provides a sim
 - **Decryption**: Easily decrypt your encrypted data.
 - **Support for various encryption algorithms**.
 
-## Installation
-
-You can install SecureCrypt using pip:
-
-```bash
-pip install SecureCrypt
 
 ## Example
 
@@ -25,3 +19,10 @@ decrypt(current_minute,r'c\user\filename',file_password)
 import SecureCrypt
 SecureCrypt.encrypt(current_minute,r'c\user\filename',file_password)
 SecureCrypt.decrypt(current_minute,r'c\user\filename',file_password)
+
+## Installation
+
+You can install SecureCrypt using pip:
+  ```sh
+  pip install SecureCrypt
+
