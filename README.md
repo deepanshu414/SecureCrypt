@@ -13,3 +13,15 @@ You can install SecureCrypt using pip:
 
 ```bash
 pip install SecureCrypt
+
+## Example
+
+from SecureCrypt import encrypt,decrypt
+encrypt(current_minute,r'c\user\filename',file_password)
+decrypt(current_minute,r'c\user\filename',file_password)
+
+**OR**
+
+import SecureCrypt
+SecureCrypt.encrypt(current_minute,r'c\user\filename',file_password)
+SecureCrypt.decrypt(current_minute,r'c\user\filename',file_password)
