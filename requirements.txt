@@ -1,3 +1,6 @@
 pyAesCrypt==6.1.1
 pandas==2.0.3
 openpyxl==3.1.2
+setuptools==69.0.3
+wheel==0.40.0
+twine==5.1.1
