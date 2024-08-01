@@ -10,15 +10,15 @@ SecureCrypt is a Python package for encryption and decryption. It provides a sim
 
 ## Example
 
-from SecureCrypt import encrypt,decrypt
-encrypt(current_minute,r'c\user\filename',file_password)
-decrypt(current_minute,r'c\user\filename',file_password)
+from SecureCrypt import encrypt,decrypt<br>
+encrypt(current_minute,r'c\user\filename',file_password)<br>
+decrypt(current_minute,r'c\user\filename',file_password)<br>
 
 **OR**
 
-import SecureCrypt
-SecureCrypt.encrypt(current_minute,r'c\user\filename',file_password)
-SecureCrypt.decrypt(current_minute,r'c\user\filename',file_password)
+import SecureCrypt<br>
+SecureCrypt.encrypt(current_minute,r'c\user\filename',file_password)<br>
+SecureCrypt.decrypt(current_minute,r'c\user\filename',file_password)<br>
 
 ## Installation
 
