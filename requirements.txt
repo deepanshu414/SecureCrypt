@@ -1,0 +1,4 @@
+pyAesCrypt==6.1.1
+pandas==2.0.3
+openpyxl==3.1.2
+workbook==1.1
