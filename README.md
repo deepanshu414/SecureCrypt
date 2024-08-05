@@ -1,4 +1,8 @@
-# SecureCrypt
+<div align="center">
+
+<img src="https://socialify.git.ci/deepanshu414/SecureCrypt/image?description=1&descriptionEditable=SecureCrypt%20is%20a%20robust%20tool%20for%20encrypting%20and%20decrypting%20files%20in%20specified%20directories%20using%20AES%20encryption.&font=KoHo&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="SecureCrypt" width="640" height="320" />
+
+</div>
 
 SecureCrypt is a Python package that provides advanced encryption and decryption capabilities, allowing you to securely handle sensitive data. This documentation will guide you through the installation process, explain the features of SecureCrypt, and provide examples of how to use it.
 
