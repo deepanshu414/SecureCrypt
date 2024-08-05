@@ -1,0 +1,3 @@
+pyAesCrypt
+pandas
+openpyxl
