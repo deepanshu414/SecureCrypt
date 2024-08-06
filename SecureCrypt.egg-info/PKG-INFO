@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SecureCrypt
+Version: 1.0.2
+Summary: SecureCrypt is a robust tool for encrypting and decrypting files in specified directories using AES encryption. It includes error handling and generates detailed Excel reports on the encryption and decryption processes.
+Home-page: https://github.com/deepanshu414/SecureCrypt
+Author: Deepanshu antil
+Author-email: deepanshuantil4113@gmail.com
+Maintainer: Deepanshu antil
+License: MIT
+License-File: Licence.txt
+Requires-Dist: pyAesCrypt
+Requires-Dist: pandas
+Requires-Dist: openpyxl
